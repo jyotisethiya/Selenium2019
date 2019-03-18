@@ -10,8 +10,7 @@ import junit.framework.TestSuite;
 public class AppTest 
     extends TestCase
 {
-    /**
-     * Create the test case
+    /**     * Create the test case
      *
      * @param testName name of the test case
      */
@@ -35,4 +34,10 @@ public class AppTest
     {
         assertTrue( true );
     }
+   
+    
+ public static void main(String args[]){
+    	
+    	System.out.println("jyoti");
+    	}
 }
