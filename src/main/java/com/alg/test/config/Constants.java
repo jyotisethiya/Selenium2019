@@ -6,7 +6,7 @@ public class Constants {
 	public static final String sLOG4JCONFIG = "log4j.xml";
 	
 	public static final String sRESULTFOLDER = "";
-	
+	ggggggg
 	//Executor sheet parameters
 	public static final String sTESTEXECUTORSHEET = "Executor";
 	public static final int iTESTCASENUMBERCOLUMN = 0;
